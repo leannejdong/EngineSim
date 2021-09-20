@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/basic_tests.dir/src/main.cpp.o CMakeFiles/basic_tests.dir/src/test.cpp.o CMakeFiles/basic_tests.dir/src/ESolve.cpp.o  -o basic_tests  libSimpleSolve.a 

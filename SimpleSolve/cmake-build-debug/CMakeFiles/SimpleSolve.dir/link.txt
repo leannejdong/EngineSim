@@ -1,0 +1,2 @@
+/usr/bin/ar qc libSimpleSolve.a CMakeFiles/SimpleSolve.dir/src/ESolve.cpp.o
+/usr/bin/ranlib libSimpleSolve.a

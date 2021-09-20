@@ -1,0 +1,3 @@
+[submodule "HydraulicNetwork"]
+	path = HydraulicNetwork
+	url = git@github.com:leannejdong/HydraulicNetwork.git
