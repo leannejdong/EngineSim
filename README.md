@@ -4,11 +4,6 @@
 
 - [SimpleSolve](https://github.com/leannejdong/EngineSim/tree/master/SimpleSolve) is a [Eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page)-based solver for low dimensional nonlinear equation system
 
-## Build instruction
-
-```
-
-```
 ## Contribution
 
 Welcome any of your 
